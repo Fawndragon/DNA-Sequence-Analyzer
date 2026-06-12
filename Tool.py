@@ -1,3 +1,11 @@
+# ==============================================================================
+# Project: DNA Sequence Analysis Suite
+# Author: Fawndragon
+# License: MIT License (c) 2026
+# Description: Dynamic bioinformatics tool for restriction simulation, 
+#              GC content tracking, and reverse complement generation.
+# ==============================================================================
+
 #TOOL FOR RESTRICTION ENZYME
 a=input("Enter the DNA sequence: ")
 countG=0
@@ -26,7 +34,7 @@ for i in a:
 print("restriction_site:",restriction_site) 
 print(fragment)
 print("GC:", x)
-print ("Total Percentage:",total)
+print ("Total Percentage:", total)
 print("site_count: ",site_count)
 print("Complementary of the DNA cut by restriction enzyme:", reverse)
         
