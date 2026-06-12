@@ -34,7 +34,7 @@ for i in a:
 print("restriction_site:",restriction_site) 
 print(fragment)
 print("GC:", x)
-print ("Total Percentage:", total,"%")
+print ("Total Percentage:", total, "%")
 print("site_count: ",site_count)
 print("Complementary of the DNA cut by restriction enzyme:", reverse)
         
