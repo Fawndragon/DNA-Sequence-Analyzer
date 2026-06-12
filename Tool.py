@@ -1,6 +1,6 @@
 # ==============================================================================
 # Project: DNA Sequence Analysis Suite
-# Author: S.B.Taanushri
+# Author: S.B.Taanushri (Fawndragon)
 # License: MIT License (c) 2026
 # Description: Dynamic bioinformatics tool for restriction simulation, 
 #              GC content tracking, and reverse complement generation.
