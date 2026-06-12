@@ -37,6 +37,6 @@ print("GC:", x)
 print ("Total Percentage:", total)
 print("site_count: ",site_count)
 print("Complementary of the DNA cut by restriction enzyme:", reverse)
-        
+input("\nPress Enter to exit...")        
 
         
