@@ -32,7 +32,7 @@ for i in a:
         complement+="C"
     reverse=complement[::-1]
 print("restriction_site:",restriction_site) 
-print(fragment)
+print("DNA seq without restriction site:", fragment)
 print("GC:", x)
 print ("Total Percentage:", total, "%")
 print("site_count: ",site_count)
