@@ -1,4 +1,3 @@
-#TOOL FOR RESTRICTION ENZYME
 # ==============================================================================
 # Project: DNA Sequence Analysis Suite
 # Author: S.B.Taanushri (Fawndragon)
@@ -7,7 +6,7 @@
 #              GC content tracking, and reverse complement generation.
 # ==============================================================================
 
-
+#TOOL FOR RESTRICTION ENZYME
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
