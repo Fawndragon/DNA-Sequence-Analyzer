@@ -1,6 +1,5 @@
 #TOOL FOR RESTRICTION ENZYME
 
-#TOOL FOR RESTRICTION ENZYME
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
